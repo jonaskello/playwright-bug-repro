@@ -11,7 +11,7 @@ Then in second terminal
 npx playwright codegen http://localhost:3040/
 ```
 
-In playwright recorder turn on developer tools and click console.
+In playwright browser turn on developer tools and click console.
 
 Then click the cross.
 
